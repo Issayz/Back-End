@@ -17,6 +17,8 @@ Registrar e principalmente organizar as tarefas relacionadas à parte de backend
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />
   <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" height="30" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+
 </div>
 
   
